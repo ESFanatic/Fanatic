@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "help.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -310,11 +310,11 @@
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
-            "bgImageRadio": false,
+            "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/lq27gd-2000x1125-54.jpg",
             "bgColor": "#2e2e2e",
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#222"
@@ -398,7 +398,7 @@
             "paddingBottom": 2,
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/screenshot-3-2000x776-15.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/lq27gd-2000x1125-48.jpg",
             "bgColor": "#000000",
             "bgColorRadio": false,
             "bgVideo": {
@@ -743,7 +743,7 @@
             "paddingBottom": "5",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/screenshot-3-2000x776-63.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/lq27gd-2000x1125-51.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -790,7 +790,7 @@
             "paddingBottom": "5",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/screenshot-3-2000x776-42.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/lq27gd-2000x1125-25.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "bgVideo": {
@@ -835,7 +835,7 @@
             "paddingBottom": "2",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/screenshot-3-2000x776-35.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/lq27gd-2000x1125-92.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -903,7 +903,7 @@
             "paddingBottom": "0",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/screenshot-3-2000x776-98.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/lq27gd-2000x1125-90.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -958,7 +958,7 @@
             "paddingBottom": "2",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/screenshot-3-2000x776-93.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/lq27gd-2000x1125-45.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1018,7 +1018,7 @@
             "paddingBottom": 3,
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/screenshot-3-2000x776-83.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/lq27gd-2000x1125-35.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
