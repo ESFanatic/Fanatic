@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "help.html",
+    "currentPage": "index.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -74,7 +74,7 @@
             },
             "bgVideoRadio": true,
             "overlay": true,
-            "overlayOpacity": "0.5",
+            "overlayOpacity": "0",
             "overlayColor": "#000",
             "contentAlign": "right",
             "showTitle": false,
@@ -320,7 +320,7 @@
             "overlayColor": "#000000"
           },
           "text": "FOLLOW &amp; CONTACT US",
-          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCoMJPar8hCaUlLdaBLR6mMg\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a>       "
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/ESFanatic\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCoMJPar8hCaUlLdaBLR6mMg\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a>       "
         },
         {
           "_inherit": "social-buttons2",
