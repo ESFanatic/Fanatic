@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "information.html",
+    "currentPage": "help.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.3",
-    "uniqCompNum": 77,
+    "uniqCompNum": 83,
     "versionPublish": "3.10.3"
   },
   "pages": {
@@ -320,7 +320,34 @@
             "overlayColor": "#000000"
           },
           "text": "FOLLOW &amp; CONTACT US",
-          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://docs.google.com/forms/d/e/1FAIpQLScZhsoaAiWO-nVmUp9F5XdTxob-XPWuNHmBeKrHioeK96WKTw/viewform?c=0&amp;w=1\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-google\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCoMJPar8hCaUlLdaBLR6mMg\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a>       "
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCoMJPar8hCaUlLdaBLR6mMg\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a>       "
+        },
+        {
+          "_inherit": "social-buttons2",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons4",
+          "_anchor": "social-buttons4-2a",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "4",
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/lq27gd-2000x1125-51-2000x1125-30-2000x1125-18.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.9",
+            "overlayColor": "#000000"
+          },
+          "text": "FILL THE FORM",
+          "icons": "  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-google\"></i></a>        "
         },
         {
           "alias": "social-feed",
@@ -827,7 +854,7 @@
             "showButton": false
           },
           "title": "APPLICATION",
-          "text": "&nbsp;| Name:<div>| Name of the account:</div><div>| Alternative accounts:</div><div>| Age:</div><div>| Country:</div><div>| Region:</div><div><br></div><div>| Tell us about the quality of your microphone/headphone. [1 - 10]</div><div>· Microphone:</div><div>· Headphone:</div><div><br></div><div>| Tell us about your computer and connection. [1 - 10]</div><div>· Computer:</div><div>· Connection:</div><div><br></div><div>| Do you have Skype &amp; TS?</div><div>· Skype:</div><div>· TS:&nbsp;</div><div><br></div><div>| Tell us about your skills:</div><div>· Better:</div><div>· Baddest:</div><div><br></div><div>| Why do you want to join?&nbsp;</div><div>· Reason:</div>",
+          "text": "&nbsp;| Name:<div>| Name of the account:</div><div>| Alternative accounts:</div><div>| Age:</div><div>| Country:</div><div>| Region:</div><div><br></div><div>| Tell us about the quality of your microphone/headphone. [1 - 10]</div><div>· Microphone:</div><div>· Headphone:</div><div><br></div><div>| Tell us about your computer and connection. [1 - 10]</div><div>· Computer:</div><div>· Connection:</div><div><br></div><div>| Do you have Skype &amp; TS?</div><div>· Skype:</div><div>· TS:&nbsp;</div><div><br></div><div>| Tell us about your skills:</div><div>· Better:</div><div>· Baddest:</div><div><br></div><div>| Why do you want to join?&nbsp;</div><div>· Reason:<br><br>| Send your electronic mail:<br>Electronic mail:</div>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
