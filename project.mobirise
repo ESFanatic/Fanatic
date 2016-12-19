@@ -343,7 +343,7 @@
             "bgColor": "#000000",
             "bgColorRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.9",
+            "overlayOpacity": "0.7",
             "overlayColor": "#000000"
           },
           "text": "FILL THE FORM",
