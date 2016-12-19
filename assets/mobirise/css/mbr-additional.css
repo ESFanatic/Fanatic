@@ -422,15 +422,15 @@ h6,
   color: #ffffff;
 }
 #ext_menu-a .navbar-toggler {
-  color: #f3c649;
+  color: #efefef;
 }
 #ext_menu-a .close-icon::before,
 #ext_menu-a .close-icon::after {
-  background-color: #f3c649;
+  background-color: #efefef;
 }
 #ext_menu-a .link,
 #ext_menu-a .dropdown-item {
-  color: #f3c649;
+  color: #efefef;
   font-family: 'Montserrat', sans-serif;
 }
 #ext_menu-a .link {
@@ -463,7 +463,7 @@ h6,
   background: #ffffff;
 }
 #ext_menu-a .bg-color.transparent .link {
-  color: #f3c649;
+  color: #efefef;
   transition: none;
 }
 #ext_menu-a .bg-color.transparent.opened .link {
@@ -485,15 +485,15 @@ h6,
   color: #ffffff;
 }
 #ext_menu-r .navbar-toggler {
-  color: #f3c649;
+  color: #efefef;
 }
 #ext_menu-r .close-icon::before,
 #ext_menu-r .close-icon::after {
-  background-color: #f3c649;
+  background-color: #efefef;
 }
 #ext_menu-r .link,
 #ext_menu-r .dropdown-item {
-  color: #f3c649;
+  color: #efefef;
   font-family: 'Montserrat', sans-serif;
 }
 #ext_menu-r .link {
@@ -526,7 +526,7 @@ h6,
   background: #ffffff;
 }
 #ext_menu-r .bg-color.transparent .link {
-  color: #f3c649;
+  color: #efefef;
   transition: none;
 }
 #ext_menu-r .bg-color.transparent.opened .link {
@@ -555,6 +555,7 @@ h6,
 
 
 
+
 #features2-12 .striped .mbr-cards-col:nth-child(2n+1) {
   background-color: #000000;
 }
@@ -565,15 +566,15 @@ h6,
   color: #ffffff;
 }
 #ext_menu-r .navbar-toggler {
-  color: #f3c649;
+  color: #efefef;
 }
 #ext_menu-r .close-icon::before,
 #ext_menu-r .close-icon::after {
-  background-color: #f3c649;
+  background-color: #efefef;
 }
 #ext_menu-r .link,
 #ext_menu-r .dropdown-item {
-  color: #f3c649;
+  color: #efefef;
   font-family: 'Montserrat', sans-serif;
 }
 #ext_menu-r .link {
@@ -606,7 +607,7 @@ h6,
   background: #ffffff;
 }
 #ext_menu-r .bg-color.transparent .link {
-  color: #f3c649;
+  color: #efefef;
   transition: none;
 }
 #ext_menu-r .bg-color.transparent.opened .link {
@@ -630,6 +631,10 @@ h6,
 #msg-box8-18 .lead {
   color: #ffffff;
   font-family: 'Montserrat', sans-serif;
+}
+#msg-box8-18 .lead P {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 20px;
 }
 #content5-1d .mbr-section-title,
 #content5-1d p {
