@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "help.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.3",
-    "uniqCompNum": 74,
+    "uniqCompNum": 76,
     "versionPublish": "3.10.3"
   },
   "pages": {
@@ -319,65 +319,32 @@
             "overlayOpacity": "0.7",
             "overlayColor": "#000000"
           },
-          "text": "FOLLOW US",
+          "text": "FOLLOW &amp; CONTACT US",
           "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/ESFanatic\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCoMJPar8hCaUlLdaBLR6mMg?\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a>       "
         },
         {
+          "alias": "social-feed",
           "_tags": [
-            "Theme"
+            "Extension"
           ],
-          "_name": "form1",
-          "_styles": {
-            ".form-control-label": {
-              "color": "#000000"
-            }
-          },
-          "_anchor": "form1-1v",
+          "_name": "feed",
+          "_anchor": "feed-23",
           "_params": {
-            "labelsColor": "#000000",
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "4",
+            "paddingBottom": "4",
+            "youtube": "https://www.youtube.com/channel/UCoMJPar8hCaUlLdaBLR6mMg?",
+            "facebook": "",
+            "twitter": "ESFanatic, PandaOMG1, frxngn",
+            "google": "",
+            "postToLoad": "10",
+            "bgImage": "@ADDONS_PATH@/social-feed/feed/assets/comments_bg.jpg",
             "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "bgColor": "#fff",
             "bgColorRadio": true,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "showTitle": true,
-            "showSubTitle": true
-          },
-          "title": "SEND YOUR APPLICATION",
-          "subtitle": "",
-          "form": {
-            "action": "fanaticeuclan@gmail.com",
-            "alerts": {
-              "success": "Thank you for sending the application!"
-            },
-            "fields": {
-              "name": {
-                "title": "Name",
-                "visible": true,
-                "customTitle": "Name:"
-              },
-              "email": {
-                "title": "Email",
-                "visible": true,
-                "customTitle": "Electronic mail:"
-              },
-              "phone": {
-                "title": "Phone",
-                "visible": false,
-                "customTitle": "Phone"
-              },
-              "message": {
-                "title": "Message",
-                "customTitle": "Application:"
-              }
-            }
-          },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">SEND THE APPLICATION</a>"
+            "overlay": true,
+            "overlayOpacity": 0.6,
+            "overlayColor": "#7e9b9f"
+          }
         }
       ]
     },
