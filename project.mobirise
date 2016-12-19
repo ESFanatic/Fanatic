@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "help.html",
+    "currentPage": "index.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -70,7 +70,7 @@
             "bgVideo": {
               "width": 1280,
               "height": 720,
-              "url": "https://www.youtube.com/embed/6pkASt1b2DY?rel=0&amp;showinfo=0&autoplay=0&loop=0"
+              "url": "https://www.youtube.com/embed/5GSefU6od2U?rel=0&amp;showinfo=0&autoplay=0&loop=0"
             },
             "bgVideoRadio": true,
             "overlay": true,
@@ -331,7 +331,7 @@
           "_anchor": "feed-23",
           "_params": {
             "paddingTop": "4",
-            "paddingBottom": "4",
+            "paddingBottom": "0",
             "youtube": "https://www.youtube.com/channel/UCoMJPar8hCaUlLdaBLR6mMg?",
             "facebook": "",
             "twitter": "ESFanatic, PandaOMG1, frxngn",
