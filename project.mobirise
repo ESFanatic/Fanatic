@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "information.html",
+    "currentPage": "help.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -162,7 +162,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/screenshot-2-199x128-70-199x128-50.png",
+              "src": "@PROJECT_PATH@/assets/images/screenshot-1-110x128-52.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",
@@ -279,7 +279,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/screenshot-2-199x128-70.png",
+              "src": "@PROJECT_PATH@/assets/images/screenshot-1-110x128-32.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",
@@ -705,7 +705,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/screenshot-2-199x128-70.png",
+              "src": "@PROJECT_PATH@/assets/images/screenshot-1-110x128-49.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",
@@ -765,7 +765,7 @@
             "showButton": false
           },
           "title": "INFORMATION",
-          "text": "<p><br></p><p>The date of the creation is 14/12/2016.<br>The creators are Miguel &amp; Sofian.<br></p>",
+          "text": "<p><br></p><p>| Founded |</p><p>[14/12/2016]</p><p><br></p><p>| Founders |</p><p>Miguel &amp; Sofian</p><p><br></p><p>| TS3 |</p><p>eu131.ts3.cloud:18047</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
@@ -857,7 +857,7 @@
             "showButton": false
           },
           "title": "APPLICATION",
-          "text": "&nbsp;| Name:<div>| Name of the account:</div><div>| Alternative accounts:</div><div>| Age:</div><div>| Country:</div><div>| Region:</div><div><br></div><div>| Tell us about the quality of your microphone/headphone. [1 - 10]</div><div>· Microphone:</div><div>· Headphone:</div><div><br></div><div>| Tell us about your computer and connection. [1 - 10]</div><div>· Computer:</div><div>· Connection:</div><div><br></div><div>| Do you have Skype &amp; TS?</div><div>· Skype:</div><div>· TS:&nbsp;</div><div><br></div><div>| Tell us about your skills:</div><div>· Better:</div><div>· Baddest:</div><div><br></div><div>| Why do you want to join?&nbsp;</div><div>· Reason:<br><br>| Send your electronic mail:<br>Electronic mail:</div>",
+          "text": "| Name:<br><span style=\"font-size: 1.07rem; line-height: 1.5;\">| Name of the account:</span><div>| Alternative accounts:</div><div>| Age:</div><div>| Country:</div><div>| Region:</div><div><br></div><div>| Tell us about the quality of your microphone/headphone. [1 - 10]</div><div>· Microphone:</div><div>· Headphone:</div><div><br></div><div>| Tell us about your computer and connection. [1 - 10]</div><div>· Computer:</div><div>· Connection:</div><div><br></div><div>| Do you have Skype &amp; TS?</div><div>· Skype:</div><div>· TS:&nbsp;</div><div><br></div><div>| Tell us about your skills:</div><div>· Better:</div><div>· Baddest:</div><div><br></div><div>| Why do you want to join?&nbsp;</div><div>· Reason:<br><br>| Send your electronic mail:<br>Electronic mail:</div>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
@@ -912,7 +912,7 @@
             "showButton": false
           },
           "title": "REQUIREMENTS",
-          "text": "<p>| No se permite utilizar un lenguaje soez y/o ofensivo a ningún usuario/miembro.</p><p>| No se permite burlarse de ningún usuario/miembro.</p><p>| No se permite amenazar a ningún usuario/miembro.</p><p>| No se permite gritar y expersar el enfado.</p><p>| No se permite utilizar términos tóxicos.</p><p>| No se permite utilizar cualquier tipo de archivo injusto y/o ilegal.</p><p>| No se permite pertenecer a otro clan.</p><p>| No se permite bloquear conexiones.</p><p>| No se permite excusarte cuándo mueres.</p><p>| Deberás de ser activo, maduro y respetuoso.</p><p>| Tener los siguientes programas descargados/instalados:</p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">- Skype</span></p><p>&nbsp;- TS3</p><p><br></p>",
+          "text": "<p>| No se permite utilizar un lenguaje soez y/o ofensivo a ningún usuario/miembro.</p><p>| No se permite burlarse de ningún usuario/miembro.</p><p>| No se permite amenazar a ningún usuario/miembro.</p><p>| No se permite gritar y expersar el enfado.</p><p>| No se permite utilizar términos tóxicos.</p><p>| No se permite utilizar cualquier tipo de archivo injusto y/o ilegal.</p><p>| No se permite pertenecer a otro clan.</p><p>| No se permite bloquear conexiones.</p><p>| No se permite excusarte cuándo mueres.</p><p>| Deberás de ser activo, maduro y respetuoso.</p><p>| Tener los siguientes programas descargados e instalados:</p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">- Skype</span></p><p>&nbsp;- TS3</p><p><br></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
@@ -967,7 +967,7 @@
             "showButton": false
           },
           "title": "ROSTER",
-          "text": "<p>| Owner |</p><p>[002/002]</p><p>- Miguel | iMsV</p><p>- Sofian | MrXRay</p><p><br></p><p>| COO |</p><p>[001/001]</p><p>- Fran | Kyzd</p><p><br></p><p>| Trial |</p><p>[006/006]</p><p>- Arnau | ArnauOMG</p><p>- Cristian | LozanoEsHacker</p><p>- Guillermo | XXXTENTACI0N</p><p>- Max | vapenaash</p><p>- José L. | Haral</p><p>- Álvaro | PersiiaN<br><br></p>",
+          "text": "<p>| Owner |</p><p>[002/002]</p><p>- Miguel | iMsV</p><p>- Sofian | MrXRay</p><p><br></p><p>| COO |</p><p>[001/001]</p><p>- Fran | Kyzd</p><p><br></p><p>| Trial |</p><p>[007/007]</p><p>- Arnau | ArnauOMG</p><p>- Cristian | LozanoEsHacker</p><p>- Guillermo | XXXTENTACI0N</p><p>- Max | vapenaash</p><p>- José L. | Haral</p><p>- Álvaro | PersiiaN</p><p>- Antonio | AntqClick</p><p><br></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
@@ -1027,7 +1027,7 @@
             "showButton": false
           },
           "title": "BATTLES",
-          "text": "| S1 | [015/100] |<div>| Wins |</div><div>| Fanatic | [5] - [3] | Celliot |</div><div>| Fanatic | [5] - [0] | Amnesy |</div><div>| Fanatic | [5] - [2] | Ciotti |</div><div>| Fanatic | [5] - [0] | Crotaly |</div><div>| Fanatic | [5] - [0] | SpookySworders |</div><div>| Fanatic | [5] - [0] | Reminds |</div><div>| Fanatic | [5] - [0] | Revisor |<br>| Fanatic | [5] - [0] | Dynamic |<br>| Fanatic | [5] - [0] | Surrender |</div><div>| Fanatic | [5] - [1] | Offensive |<br>| Fanatic | [5] - [0] | Sweety |<br>| Fanatic | [5] - [0] | Dynamic |<br>| Fanatic | [5] - [0] | Haramber |</div><div>| Fanatic | [5] - [0] | Animals |</div><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</div><div>| Losses |</div><div>| Fanatic | [-] - [5] | [-] |</div><div><br></div><div>| Pending |</div><div>| Fanatic | [-] - [-] | [-] |</div><div><br></div>",
+          "text": "| S1 | [015/100] |<div>| Wins |</div><div>| Fanatic | [5] - [3] | Celliot |</div><div>| Fanatic | [5] - [0] | Amnesy |</div><div>| Fanatic | [5] - [2] | Ciotti |</div><div>| Fanatic | [5] - [0] | Crotaly |</div><div>| Fanatic | [5] - [0] | SpookySworders |</div><div>| Fanatic | [5] - [0] | Reminds |</div><div>| Fanatic | [5] - [0] | Revisor |<br>| Fanatic | [5] - [0] | Dynamic |<br>| Fanatic | [5] - [0] | Surrender |</div><div>| Fanatic | [5] - [1] | Offensive |<br>| Fanatic | [5] - [0] | Sweety |<br>| Fanatic | [5] - [0] | Dynamic |<br>| Fanatic | [5] - [0] | Haramber |</div><div>| Fanatic | [5] - [0] | Animals |</div><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</div><div>| S1 | [000/100] |</div><div>| Losses |</div><div>| Fanatic | [?] - [5] | [?] |</div><div><br></div><div><br><span style=\"line-height: 1.5;\">| S1 | [003/005]<br>| Pending |</span></div><div>| Fanatic | [3] - [1] | Wezen |</div><div>| Fanatic | [2] - [0] | Limeta |</div><div>| Fanatic | [4] - [0] | Rovers |</div><div><br></div>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
