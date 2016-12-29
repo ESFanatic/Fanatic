@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "help.html",
+    "currentPage": "information.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -1027,7 +1027,7 @@
             "showButton": false
           },
           "title": "BATTLES",
-          "text": "| S1 | [015/100] |<div>| Wins |</div><div>| Fanatic | [5] - [3] | Celliot |</div><div>| Fanatic | [5] - [0] | Amnesy |</div><div>| Fanatic | [5] - [2] | Ciotti |</div><div>| Fanatic | [5] - [0] | Crotaly |</div><div>| Fanatic | [5] - [0] | SpookySworders |</div><div>| Fanatic | [5] - [0] | Reminds |</div><div>| Fanatic | [5] - [0] | Revisor |<br>| Fanatic | [5] - [0] | Dynamic |<br>| Fanatic | [5] - [0] | Surrender |</div><div>| Fanatic | [5] - [1] | Offensive |<br>| Fanatic | [5] - [0] | Sweety |<br>| Fanatic | [5] - [0] | Dynamic |<br>| Fanatic | [5] - [0] | Haramber |</div><div>| Fanatic | [5] - [0] | Animals |</div><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</div><div>| S1 | [000/100] |</div><div>| Losses |</div><div>| Fanatic | [?] - [5] | [?] |</div><div><br></div><div><br><span style=\"line-height: 1.5;\">| S1 | [003/005]<br>| Pending |</span></div><div>| Fanatic | [3] - [1] | Wezen |</div><div>| Fanatic | [2] - [0] | Limeta |</div><div>| Fanatic | [4] - [0] | Rovers |</div><div><br></div>",
+          "text": "| S1 | [015/100] |<div>| Wins |</div><div>| Fanatic | [5] - [3] | Celliot |</div><div>| Fanatic | [5] - [0] | Amnesy |</div><div>| Fanatic | [5] - [2] | Ciotti |</div><div>| Fanatic | [5] - [0] | Crotaly |</div><div>| Fanatic | [5] - [0] | SpookySworders |</div><div>| Fanatic | [5] - [0] | Reminds |</div><div>| Fanatic | [5] - [0] | Revisor |<br>| Fanatic | [5] - [0] | Dynamic |<br>| Fanatic | [5] - [0] | Surrender |</div><div>| Fanatic | [5] - [1] | Offensive |<br>| Fanatic | [5] - [0] | Sweety |<br>| Fanatic | [5] - [0] | Dynamic |<br>| Fanatic | [5] - [0] | Haramber |</div><div>| Fanatic | [5] - [0] | Animals |</div><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</div><div>| S1 | [000/100] |</div><div>| Losses |</div><div>| Fanatic | [?] - [5] | [?] |</div><div><br></div><div><br><span style=\"line-height: 1.5;\">| S1 | [003/005] |<br>| Pending |</span></div><div>| Fanatic | [3] - [1] | Wezen |</div><div>| Fanatic | [2] - [0] | Limeta |</div><div>| Fanatic | [4] - [0] | Rovers |</div><div><br></div>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
